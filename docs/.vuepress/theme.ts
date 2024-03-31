@@ -66,7 +66,7 @@ export default hopeTheme({
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
     name: "孤独飞行员",
-    avatar: "/avatar_self.webp",
+    avatar: "/avatar.jpg",
     description: "唯有家人、学习、运动不可辜负",
     intro: "/intro.html",
     roundAvatar: true,
